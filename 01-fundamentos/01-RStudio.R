@@ -1,3 +1,4 @@
+####################################################################################################
 # Primeiros passos na Linguagem R
 
 # Obs: Caso tenha problemas com a acentuação, consulte este link:
@@ -9,6 +10,7 @@
 setwd("C:/GitHubProjects/r_language/Projects-in-R/01-fundamentos")
 getwd()
 
+####################################################################################################
 # Nome dos Contributors
 contributors()
 
@@ -21,6 +23,7 @@ print('Estou iniciando minha caminhada na carreira de Cientista de Dados')
 # Criar gráficos
 plot(1:25)
 
+####################################################################################################
 # Instalar pacotes
 install.packages('randomForest')
 install.packages('ggplot2')
@@ -33,6 +36,7 @@ library(ggplot2)
 # Descarregar o pacote
 detach(package:ggplot2)
 
+####################################################################################################
 # Se souber o nome da função
 help(mean)
 ?mean
@@ -51,4 +55,4 @@ example('matplot')
 
 # Sair
 q()
-
+####################################################################################################
