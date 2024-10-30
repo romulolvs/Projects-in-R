@@ -10,6 +10,7 @@ setwd("C:/GitHubProjects/r_language/Projects-in-R/02-linguagem-r")
 getwd()
 
 ####################################################################################################
+
 str <- c("Expressões", "regulares", "em linguagem R", 
          "permitem a busca de padrões", "e exploração de textos",
          "podemos buscar padrões em dígitos",
