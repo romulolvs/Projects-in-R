@@ -7,6 +7,7 @@ getwd()
 dataset_path = "C:/GitHubProjects/r_language/Projects-in-R/99-datasets/"
 
 ####################################################################################################
+
 # Usando as funções base do R
 search()
 
