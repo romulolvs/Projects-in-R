@@ -6,7 +6,7 @@
 
 # Configurando o diretório de trabalho
 # Não use diretórios com espaço no nome
-setwd("C:/GitHubProjects/r_language/Projects-in-R/02-linguagem-r")
+setwd("C:/GitHubProjects/Projects-in-R/02-linguagem-r")
 getwd()
 
 ####################################################################################################

@@ -2,9 +2,9 @@
 # Arquivos TXT
 
 # Configurando o diretório de trabalho
-setwd("C:/GitHubProjects/r_language/Projects-in-R/04-manipulacao-arquivos")
+setwd("C:/GitHubProjects/Projects-in-R/04-manipulacao-arquivos")
 getwd()
-dataset_path = "C:/GitHubProjects/r_language/Projects-in-R/99-datasets/"
+dataset_path = "C:/GitHubProjects/Projects-in-R/99-datasets/"
 
 ####################################################################################################
 # Usando o pacote readr

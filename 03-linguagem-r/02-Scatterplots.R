@@ -2,7 +2,7 @@
 # Gráficos em R - Base Plotting System
 
 # Configurando o diretório de trabalho
-setwd("C:/GitHubProjects/r_language/Projects-in-R/03-linguagem-r")
+setwd("C:/GitHubProjects/Projects-in-R/03-linguagem-r")
 getwd()
 
 ####################################################################################################

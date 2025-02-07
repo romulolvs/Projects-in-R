@@ -7,9 +7,9 @@
 # Configurando o diretório de trabalho
 # Coloque entre aspas o diretório de trabalho que você está usando no seu computador
 # Não use diretórios com espaço no nome
-setwd("C:/GitHubProjects/r_language/Projects-in-R/01-fundamentos")
+setwd("C:/GitHubProjects/Projects-in-R/01-fundamentos")
 getwd()
-dataset_path = "C:/GitHubProjects/r_language/Projects-in-R/99-datasets/"
+dataset_path = "C:/GitHubProjects/Projects-in-R/99-datasets/"
 
 ####################################################################################################
 # Criando um dataframe vazio
